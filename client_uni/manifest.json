@@ -1,7 +1,7 @@
 {
-    "name" : "jiangqie_xcx_free",
-    "appid" : "",
-    "description" : "酱茄Free小程序",
+    "name" : "PorYoung",
+    "appid" : "__UNI__D50D9C6",
+    "description" : "PorYoung Home",
     "versionName" : "2.2.1",
     "versionCode" : "100",
     "transformPx" : false,
@@ -49,9 +49,10 @@
     },
     "quickapp" : {},
     "mp-weixin" : {
-        "appid" : "",
+        "appid" : "wx1c9ac734555d4e6d",
         "setting" : {
-            "urlCheck" : false
+            "urlCheck" : false,
+            "minified" : true
         },
         "usingComponents" : true
     },
